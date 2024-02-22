@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🚀 Started learning Web Development in 2022.
+- 🌱 I'm making a [Japanese Flashcards page](owaruuu.github.io/ReactFlashcards/).
+- 📚 I'm learning Typescript, Java Spring Boot right now.
+- 📫 @owaruuu everywhere
+
 <!--
 **owaruuu/owaruuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
